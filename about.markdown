@@ -4,15 +4,34 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello, world! My name is Tim. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+These days, I'm studying Bioinformatics & Systems Biology at the Vrije Universiteit Amsterdam, as well as developing [issue-tracker](https://issuetracker.nu/) at WePublic. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm an avid reader. You can find what I'm currently reading and some of my favourites on my [Goodreads](https://www.goodreads.com/user/show/77360836-tim-mocking).
+
+I will try to update this page as much as possible. *Last update: may 30th 2020*
+
+### Interests
+
+Some things I know a lot about, or want to learn more about:
+
+* Artificial intelligence
+* Precision medicine
+* Data visualization
+* Political theory
+* Lifting heavy weights
+* Attempts to explain consciousness
+  * [Integrated information theory](https://en.wikipedia.org/wiki/Integrated_information_theory)
+  * Karl Friston's [free energy principle](https://www.wired.com/story/karl-friston-free-energy-principle-artificial-intelligence/) theory
+* Brutalist architecture
+* Emergent phenomena
+* Square metre gardening
+* Natural language processing (NLP)
+* Propaganda posters
+* Cartography
+* 20th century history
 
 
 [jekyll-organization]: https://github.com/jekyll
+
