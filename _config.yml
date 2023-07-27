@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Tim Mocking"
-  avatar           : "profile.png"
+  avatar           : "profile2.png"
   bio              : "I'm a Bioinformatics PhD student at the AmsterdamUMC Cancer Center. My work focuses on computational analysis of myeloid malignancies."
   location         : "Amsterdam, NL"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Mocking+TR&cauthor_id=37338802"
-  googlescholar    : "https://scholar.google.com/citations?user=M7JvmCIAAAAJ&hl=nl"
+  googlescholar    : "https://scholar.google.com/citations?user=M7JvmCIAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
