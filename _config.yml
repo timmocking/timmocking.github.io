@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tim Mocking"
   avatar           : "profile.jpeg"
-  bio              : "I'm a Bioinformatics PhD student at the AmsterdamUMC Cancer Center. My work focuses on computational analysis of myeloid malignancies."
+  bio              : "I'm a Bioinformatics PhD student at the Department of Hematology, Amsterdam UMC. My work focuses on computational analysis of myeloid malignancies."
   location         : "Amsterdam, NL"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Mocking+TR&cauthor_id=37338802"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/tim-mocking-61b5905b"
+  linkedin         : 
   orcid            : "https://orcid.org/0000-0001-9170-4131"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "timmocking"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
