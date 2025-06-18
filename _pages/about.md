@@ -8,8 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Bioinformatics PhD student at the AmsterdamUMC Cancer Center.
+My research encompasses a range of topics within hematology. In my current role as a PhD student at Amsterdam UMC, I primarily focus on developing computational methods for measuring residual disease in acute myeloid leukemia.
 
-In the past, I developed [CNP-ALIGN](https://github.com/timmocking/cnp-align), a Python tool which enables assessment of clonal relationships between different tumors from the same patient based on copy number profiles.
+I'm also involved in the development of computational tools to support researchers in translational medical research.  
 
-Currently, my work focuses on computational analysis of myeloid malignancies. I spend most of my time researching computational assessment of measurable residual disease in acute myeloid leukemia. I'm also interested in flow cytometry bioinformatics, in particular in the context of large and heterogeneous patient cohorts.
+If you'd like to discuss potentially working together, please feel free to get in touch!
+
+
+
+## Research interests
+
+### Measurable residual disease
+
+My primary PhD project focused on identifying measurable residual disease in acute myeloid leukemia.
+
+Representative publications:
+
+[Mocking *et al.* (2025) HemaSphere](https://doi.org/10.1002/hem3.70138)
+
+[Mocking *et al.* (2024) Communications Medicine](https://doi.org/10.1038/s43856-024-00700-x)
+
+
+
+### Flow cytometry bioinformatics
+
+The increasing size and dimensionality of flow cytometry datasets require innovative bioinformatics analyses. 
+
+Representative publications:
+
+[Mocking *et al.* (2023) Cytometry Part A](https://doi.org/10.1002/cyto.a.24774)
