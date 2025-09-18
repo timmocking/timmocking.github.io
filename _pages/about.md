@@ -24,9 +24,12 @@ My primary PhD project focused on identifying measurable residual disease in acu
 
 Representative publications:
 
+[Mocking *et al.* (2025) Leukemia](https://doi.org/10.1038/s41375-025-02747-8)
+
 [Mocking *et al.* (2025) HemaSphere](https://doi.org/10.1002/hem3.70138)
 
 [Mocking *et al.* (2024) Communications Medicine](https://doi.org/10.1038/s43856-024-00700-x)
+
 
 
 
