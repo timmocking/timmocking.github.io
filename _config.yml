@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tim Mocking"
   avatar           : "profile.jpeg"
-  bio              : "I'm a Bioinformatics PhD student at the Department of Hematology, Amsterdam UMC. My work focuses on computational analysis of myeloid malignancies."
-  location         : "Amsterdam, NL"
+  bio              : "I'm a Postdoc at the Center of Translational Immunology, UMC Utrecht. My work focuses on pediatric Post-COVID."
+  location         : "Utrecht, NL"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Mocking+TR&cauthor_id=37338802"
   googlescholar    : "https://scholar.google.com/citations?user=M7JvmCIAAAAJ&hl=en"
