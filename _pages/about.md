@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My research encompasses a range of topics within hematology. In my current role as a PhD student at Amsterdam UMC, I primarily focus on developing computational methods for measuring residual disease in acute myeloid leukemia.
+My research encompasses a range of topics within translational research. In my current role as a Postdoc at UMC Utrecht, I'm investigating the etiology of pediatric Post-COVID. 
 
 I'm also involved in the development of computational tools to support researchers in translational medical research.  
 
@@ -17,6 +17,11 @@ If you'd like to discuss potentially working together, please feel free to get i
 
 
 ## Research interests
+
+### Post-COVID
+
+Coming soon! 
+
 
 ### Measurable residual disease
 
@@ -32,7 +37,6 @@ Representative publications:
 
 
 
-
 ### Flow cytometry bioinformatics
 
 The increasing size and dimensionality of flow cytometry datasets require innovative bioinformatics analyses. 
@@ -40,3 +44,6 @@ The increasing size and dimensionality of flow cytometry datasets require innova
 Representative publications:
 
 [Mocking *et al.* (2023) Cytometry Part A](https://doi.org/10.1002/cyto.a.24774)
+
+[Mocking *et al.* (2025) Biorxiv](https://www.biorxiv.org/content/10.1101/2025.09.24.678276v1)
+
