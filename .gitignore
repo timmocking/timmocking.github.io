@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.DS_Store
+*.Rproj
+public/*
+.hugo_build.lock
+.Rprofile
+
+/.quarto/
+.positai
